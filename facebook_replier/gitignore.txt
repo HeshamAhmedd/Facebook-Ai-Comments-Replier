@@ -1,0 +1,4 @@
+.env
+fb_agent_state.sqlite3
+__pycache__/
+*.pyc
